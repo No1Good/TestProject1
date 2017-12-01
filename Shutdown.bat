@@ -1,0 +1,1 @@
+shutdown(arguments) /f /s /t 0
